@@ -44,16 +44,23 @@ Hotel-Reviews-Sentiment-Analysis/
 └── README.md                # Project documentation
 
 
-## 💻 Usage
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Naveen035/Hotel-Reviews-Sentiment-Analysis.git
-   cd Hotel-Reviews-Sentiment-Analysis
-2. **Install required dependencies**:
-```bash
-  pip install -r requirements.txt
-3. **Run the Streamlit app**:
-```bash
-  streamlit run app/app.py
-## 🏆 Results
+
+💻 Usage
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/Naveen035/Hotel-Reviews-Sentiment-Analysis.git
+cd Hotel-Reviews-Sentiment-Analysis
+Install required dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Streamlit app:
+
+bash
+Copy code
+streamlit run app/app.py
+🏆 Results
 The project accurately predicts the sentiment of hotel reviews and provides valuable insights into customer feedback patterns. Visualizations help in understanding sentiment trends and identifying key words and phrases in guest reviews.
