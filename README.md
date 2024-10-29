@@ -23,7 +23,7 @@
    - Visualizations to explore the distribution of sentiments in the reviews.
    - Analysis of review length, word frequency, and common keywords.
 
-3. **NLP Techniques** for Feature Extraction 
+3. **NLP Techniques** for Feature Extraction** 
    - **Doc2Vec Embeddings** for capturing semantic relationships in reviews.
    - **TF-IDF Vectorization** for quantifying the importance of words.
 
@@ -37,13 +37,20 @@
 - **Sentiment Distribution Charts** to analyze the spread of sentiments 
 - **Correlation Heatmaps** to explore relationships between features 
 
-# Project Structure
+## Usage
 
-```bash
-Hotel-Reviews-Sentiment-Analysis/
-│
-├── data/                 # Dataset and processed files
-├── notebooks/            # Jupyter notebooks for EDA, NLP, and Modeling
-├── models/               # Trained ML models
-├── app/                  # Streamlit app code
-└── README.md             # Project documentation
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/Naveen035/Hotel-Reviews-Sentiment-Analysis.git
+    cd Hotel-Reviews-Sentiment-Analysis
+    ```
+
+2. **Install required dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Streamlit app**:
+    ```bash
+    streamlit run app/app.py
+    ```
