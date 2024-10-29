@@ -34,14 +34,14 @@
 - **Correlation Heatmaps** to explore relationships between features 🔥
 
 # 📂 Project Structure
-```bash
-Hotel-Reviews-Sentiment-Analysis/
-│
-├── data/                    # Dataset and processed files
-├── notebooks/               # Jupyter notebooks for EDA, NLP, and Modeling
-├── models/                  # Trained ML models
-├── app/                     # Streamlit app code
-└── README.md                # Project documentation
+   ```bash
+   Hotel-Reviews-Sentiment-Analysis/
+   │
+   ├── data/                    # Dataset and processed files
+   ├── notebooks/               # Jupyter notebooks for EDA, NLP, and Modeling
+   ├── models/                  # Trained ML models
+   ├── app/                     # Streamlit app code
+   └── README.md                # Project documentation
 
 
 ## 📝 Usage
