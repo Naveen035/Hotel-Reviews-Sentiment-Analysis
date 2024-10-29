@@ -33,7 +33,7 @@
 - **Sentiment Distribution Charts** to analyze the spread of sentiments 📉
 - **Correlation Heatmaps** to explore relationships between features 🔥
 
-## 📂 Project Structure
+# 📂 Project Structure
 ```bash
 Hotel-Reviews-Sentiment-Analysis/
 │
